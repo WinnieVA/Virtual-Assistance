@@ -73,7 +73,7 @@
 
             <div class="section" id="rates">
                 <h2>Rates</h2>
-                <p>My hourly rate is $20 per hour. First-time clients get a $3 discount, making your initial sessions $17 per hour. Let's talk about your needs and how I can help you better.</p>
+                <p>My standard rate is $20 per hour. However, rates can vary depending on the scope and complexity of the project. Please contact me to discuss your specific needs, and we can work out a customized rate that fits your project requirements.</p>
             </div>
 
             <div class="section" id="contact">
