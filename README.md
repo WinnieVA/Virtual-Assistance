@@ -1,5 +1,4 @@
 # cautious-memory
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,7 +14,7 @@
         }
         header {
             background-color: #4CAF50;
-            color: white;
+            color: brown;
             padding: 1em 0;
             text-align: center;
         }
@@ -26,7 +25,7 @@
         }
         #main {
             padding: 20px;
-            background: white;
+            background: brown;
             margin-top: 20px;
         }
         footer {
@@ -67,21 +66,22 @@
                     <li>Data entry</li>
                     <li>Research</li>
                     <li>Customer service</li>
-                    <li>Social media management</li>
+                    <li>Bookkeeping</li>
+                    <li>Quickbook management</li>
                     <!-- Add more services as per your portfolio -->
                 </ul>
             </div>
 
             <div class="section" id="rates">
                 <h2>Rates</h2>
-                <p>My hourly rate is $20 per hour. First-time clients get a $3 discount per hour, making it $17 per hour for your initial sessions. Let's discuss your needs and how I can assist you effectively.</p>
+                <p>My hourly rate is $20 per hour. First-time clients get a $3 discount, making it $17 per hour for your initial sessions. Let's talk about your needs and how I can help you better.</p>
             </div>
 
             <div class="section" id="contact">
                 <h2>Contact</h2>
                 <p>I'm available to assist you. Feel free to reach out to me to discuss your requirements and schedule a consultation.</p>
-                <p>Email: <a href="mailto:example@example.com">example@example.com</a></p>
-                <p>Phone: (123) 456-7890</p>
+                <p>Email: <a href="mailto:winnietheva@gmail.com">winnietheva@gmail.com</a></p>
+                <p>Phone: (254) 704552432</p>
                 <!-- Replace with actual contact details -->
             </div>
         </div>
