@@ -9,11 +9,11 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
+            background-color: #654321;
+            color: #101;
         }
         header {
-            background-color: #4CAF50;
+            background-color: #654321;
             color: brown;
             padding: 1em 0;
             text-align: center;
@@ -29,8 +29,8 @@
             margin-top: 20px;
         }
         footer {
-            background-color: #4CAF50;
-            color: white;
+            background-color: #654321;
+            color: brown;
             text-align: center;
             padding: 1em 0;
             position: fixed;
@@ -84,8 +84,13 @@
                 <p>Phone: (254) 704552432</p>
                 <!-- Replace with actual contact details -->
             </div>
+
+             <div class="section" id="contact">
+                <h2>Portfolio</h2>
+                 <p>Here is a link to my portfolio:portfoliowinnietheva.my.canva.site.</p>
         </div>
     </div>
+</div>
 
     <footer>
         <p>&copy; 2024 Winnie the Virtual Assistant. All rights reserved.</p>
