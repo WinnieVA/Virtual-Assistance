@@ -1,4 +1,3 @@
-# cautious-memory
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,12 +8,12 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #654321;
-            color: #101;
+            background-color: #f4f4f4;
+            color: #333;
         }
         header {
-            background-color: #654321;
-            color: brown;
+            background-color: #4CAF50;
+            color: white;
             padding: 1em 0;
             text-align: center;
         }
@@ -25,12 +24,12 @@
         }
         #main {
             padding: 20px;
-            background: brown;
+            background: white;
             margin-top: 20px;
         }
         footer {
-            background-color: #654321;
-            color: brown;
+            background-color: #4CAF50;
+            color: white;
             text-align: center;
             padding: 1em 0;
             position: fixed;
@@ -74,23 +73,19 @@
 
             <div class="section" id="rates">
                 <h2>Rates</h2>
-                <p>My hourly rate is $20 per hour. First-time clients get a $3 discount, making it $17 per hour for your initial sessions. Let's talk about your needs and how I can help you better.</p>
+                <p>My hourly rate is $20 per hour. First-time clients get a $3 discount, making your initial sessions $17 per hour. Let's talk about your needs and how I can help you better.</p>
             </div>
 
             <div class="section" id="contact">
                 <h2>Contact</h2>
                 <p>I'm available to assist you. Feel free to reach out to me to discuss your requirements and schedule a consultation.</p>
                 <p>Email: <a href="mailto:winnietheva@gmail.com">winnietheva@gmail.com</a></p>
-                <p>Phone: (254) 704552432</p>
+                <p>(Whatsapp)Phone: (254) 704552432</p>
                 <!-- Replace with actual contact details -->
             </div>
-
-             <div class="section" id="contact">
-                <h2>Portfolio</h2>
-                 <p>Here is a link to my portfolio:portfoliowinnietheva.my.canva.site.</p>
         </div>
     </div>
-</div>
+
 
     <footer>
         <p>&copy; 2024 Winnie the Virtual Assistant. All rights reserved.</p>
